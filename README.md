@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jerpro
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning pygame and java.
-- 💞️ I’m looking to collaborate on https://github.com/ornicar/lila.
+- 💞️ I’m looking to collaborate on https://github.com/ornicar/lila and on https://github.com/EpicGames.
 - 📫 How to reach me use jeremy.pro165@gmail.coom
 
 <!---
